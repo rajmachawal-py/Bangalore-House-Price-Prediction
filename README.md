@@ -14,7 +14,7 @@ A simple machine learning web application built with **Flask** to predict house 
 
 - Python
 - Flask
-- scikit-learn / XGBoost
+- scikit-learn, Matplotlib
 - Pandas, NumPy
 - HTML/CSS (optionally with Bootstrap)
 - JavaScript (optional for interactivity)
@@ -29,6 +29,6 @@ A simple machine learning web application built with **Flask** to predict house 
    
 2. **Run the Flask Application**
    ```bash
-     python server.py
+   python server.py
 
 
