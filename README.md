@@ -27,8 +27,8 @@ A simple machine learning web application built with **Flask** to predict house 
    git clone https://github.com/your-username/bangalore-house-price-predictor.git
    cd bangalore-house-price-predictor
    
-2. **Run the Flas application**
+2. **Run the Flask Application**
    ```bash
-  python server.py
+     python server.py
 
 
