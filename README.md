@@ -28,6 +28,7 @@ A simple machine learning web application built with **Flask** to predict house 
    cd bangalore-house-price-predictor
    
 2. **Run the Flas application**
+   ```bash
   python server.py
 
 
