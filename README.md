@@ -32,4 +32,25 @@ A simple machine learning web application built with **Flask** to predict house 
    ```bash
    python server.py
 
+3. **📁 Project Structure**
+   BHP/
+   │
+   ├── client/
+   │   ├── app.css               # Styling for the front-end
+   │   ├── app.html              # HTML structure of the front-end
+   │   └── app.js                # JavaScript logic for the front-end
+   │
+   ├── model/
+   │   ├── Banglore_home_prices_model.pickle  # Trained ML model
+   │   ├── Bengaluru_House_Data.csv           # Dataset used for training
+   │   ├── Machine Learning Project 1.ipynb   # Jupyter notebook for EDA and model building
+   │   └── columns.json                       # JSON file containing model input features
+   │
+   ├── server/
+   │   ├── __pycache__/           # Python cache directory
+   │   ├── artifacts/             # Folder to store model artifacts
+   │   ├── server.py              # Backend API using Flask
+   │   └── util.py                # Utility functions for preprocessing/prediction
+   │
+   └── README.md                  # Project documentation
 
